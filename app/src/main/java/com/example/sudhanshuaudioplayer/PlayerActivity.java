@@ -53,7 +53,7 @@ public class PlayerActivity extends AppCompatActivity
         implements ActionPlaying, ServiceConnection {
 
     TextView song_name, artist_name, duration_played, duration_total;
-    ImageView cover_art, nextBtn, prevBtn, back_btn, shuffleBtn, repeatBtn;
+    ImageView cover_art, nextBtn, prevBtn, back_btn, shuffleBtn, repeatBtn, bk_btn;
     FloatingActionButton playPauseBtn;
     SeekBar seekBar;
     int position = -1;
@@ -75,6 +75,13 @@ public class PlayerActivity extends AppCompatActivity
         initViews();
         getIntenMethod();
 
+        bk_btn.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent i = new Intent(getApplicationContext(),MainActivity.class);
+                startActivity(i);
+            }
+        });
 
         seekBar.setOnSeekBarChangeListener(new SeekBar.OnSeekBarChangeListener() {
             @Override
@@ -454,6 +461,7 @@ public class PlayerActivity extends AppCompatActivity
         repeatBtn = findViewById(R.id.id_repeat);
         playPauseBtn = findViewById(R.id.play_pause);
         seekBar = findViewById(R.id.seekBar);
+        bk_btn = findViewById(R.id.back_btn);
     }
 
     private void metaData(Uri uri)
