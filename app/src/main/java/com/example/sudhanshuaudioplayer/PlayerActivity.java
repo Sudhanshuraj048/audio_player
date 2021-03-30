@@ -517,7 +517,7 @@ public class PlayerActivity extends AppCompatActivity
         else {
             Glide.with(this)
                     .asBitmap()
-                    .load(R.drawable.p25)
+                    .load(R.drawable.p28)
                     .into(cover_art);
         }
     }
