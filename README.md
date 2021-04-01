@@ -21,7 +21,7 @@ Android music player app
 </p>
  
 ## APK
-https://github.com/Sudhanshuraj048/audio_player/blob/master/app/release/sudo%20player.apk
+https://github.com/Sudhanshuraj048/audio_player/tree/master/app/release
 
 ## Creator
 
