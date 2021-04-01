@@ -7,7 +7,7 @@ Android music player app
 * JAVA using Android Studio
 
 <p align="center">
-<img src="https://lh3.googleusercontent.com/d/18WG8ypwNEf4XvFcPL_K_PkOzf39frGG5" width="100%">
+<img src="https://lh3.googleusercontent.com/d/1Gpx0-wOm2aF90fTn6rptlxSQFn8qSAjn" width="100%">
 <img src="https://lh3.googleusercontent.com/d/1ub4UfPzDN8R90wh_0f-ejUi9ekucaCU2" width="100%">
  <img src="https://lh3.googleusercontent.com/d/1oD5YVrE5_86UfGlYe5xXMzphFuTXbD2P" width="100%">
  <img src="https://lh3.googleusercontent.com/d/1egH-WGKRqLVv812OHj-2cD2XWdR49blM" width="100%">
