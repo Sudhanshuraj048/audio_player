@@ -17,7 +17,7 @@ Android music player app
 </p>
  
 ## APK
-https://api.covid19india.org/data.json
+https://github.com/Sudhanshuraj048/audio_player/blob/master/app/release/sudo%20player.apk
 
 ## Creator
 
@@ -25,4 +25,4 @@ https://api.covid19india.org/data.json
 
 
 ## License
-https://github.com/Sudhanshuraj048/covid/blob/master/LICENSE.md
+https://github.com/Sudhanshuraj048/audio_player/blob/master/LICENSE
