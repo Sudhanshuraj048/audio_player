@@ -8,12 +8,16 @@ Android music player app
 
 <p align="center">
 <img src="https://lh3.googleusercontent.com/d/1Gpx0-wOm2aF90fTn6rptlxSQFn8qSAjn" width="100%">
-<img src="https://lh3.googleusercontent.com/d/1ub4UfPzDN8R90wh_0f-ejUi9ekucaCU2" width="100%">
- <img src="https://lh3.googleusercontent.com/d/1oD5YVrE5_86UfGlYe5xXMzphFuTXbD2P" width="100%">
- <img src="https://lh3.googleusercontent.com/d/1egH-WGKRqLVv812OHj-2cD2XWdR49blM" width="100%">
- <img src="https://lh3.googleusercontent.com/d/1dzRik2ChBR-WEAx3GKH8Q-1iGda55cEf" width="100%">
- <img src="https://lh3.googleusercontent.com/d/18blrekEBX8yNgd4kIc31Jshpt5WGSVNe" width="100%">
- <img src="https://lh3.googleusercontent.com/d/1i_wIxv5xg0mIhZ3Wdy0CFg6B47L13y-2" width="100%">
+<img src="https://lh3.googleusercontent.com/d/1IJ2FVwgKxJwYZX5XdGxZ1BMw5OxsSBlT" width="100%">
+ <img src="https://lh3.googleusercontent.com/d/10gl__KXwqJqk7O4rhoJjYR8oIlFDAqkS" width="100%">
+ <img src="https://lh3.googleusercontent.com/d/1UV4qO2E3BFuSUhQAHJtJvdr-yBmpehmC" width="100%">
+ <img src="https://lh3.googleusercontent.com/d/1QA_noi5vdR_9B3NAhadilh7BinfkSe3L" width="100%">
+ <img src="https://lh3.googleusercontent.com/d/1J-8rGRMPW7EbHjbMoNNFtIGwpY2Bl4Sz" width="100%">
+ <img src="https://lh3.googleusercontent.com/d/1GaWGaN2KU3ScKrUcnwbOMCUoxOXjPx5D" width="100%">
+ 
+ <img src="https://lh3.googleusercontent.com/d/1YSsDSEoNtsDgHSD1-rfqshD6www_80jW" width="100%">
+ <img src="https://lh3.googleusercontent.com/d/1YO0NEhQt3j8_THJb0oyN3OXJMxQHzgYE" width="100%">
+ <img src="https://lh3.googleusercontent.com/d/1ilqYtDNpm8lZfF5Gz9V734SXJ5RwgCVt" width="100%">
 </p>
  
 ## APK
