@@ -76,13 +76,24 @@ public class MusicAdapter extends RecyclerView.Adapter<MusicAdapter.MyVieHolder>
 
                             deleteFile(position, v);
                             break;
+                        case R.id.share:
+                            shareFile(position, v);
+                            break;
                     }
                     return true;
                 }));
             }
         });
     }
-
+    private  void shareFile(int position, View v)
+    {
+        String sharePath = mFiles.get(position).getPath();
+        Uri uri = Uri.parse(sharePath);
+        Intent share = new Intent(Intent.ACTION_SEND);
+        share.setType("audio/*");
+        share.putExtra(Intent.EXTRA_STREAM, uri);
+        mContext.startActivity(Intent.createChooser(share, "Share Sound File"));
+    }
     private void deleteFile(int position, View v)
     {
         Uri contentUri = ContentUris.withAppendedId(MediaStore.Audio.Media.EXTERNAL_CONTENT_URI,
